@@ -1,0 +1,34 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+input {
+  display: block;
+  margin: 20px auto;
+}
+
+.card {
+  display: flex;
+  flex-basis: calc((100% - 2 * 30px) / 2);
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.button.is-hidden {
+  display: none;
+}
+
+.button > .spinner.is-hidden {
+  display: none;
+}
