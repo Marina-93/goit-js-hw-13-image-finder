@@ -1,0 +1,2 @@
+.gallery{display:flex;flex-wrap:wrap}input{display:block;margin:20px auto}.card{display:flex;flex-basis:calc(50% - 30px)}.stats{display:flex;justify-content:space-around}.button{display:block;margin-left:auto;margin-right:auto;margin-bottom:20px}.button.is-hidden{display:none}.button>.spinner.is-hidden{display:none}
+/*# sourceMappingURL=/goit-js-hw-13-image-finder/main.b8e82e23.css.map */
